@@ -3,14 +3,14 @@ This is a simple Todo List app built with Flutter.
 It allows users to create, update and delete tasks, helping them stay organized and manage their daily activities effectively.
 
 ## features
-Create a new task
-Mark a task as completed
-Delete a task
-Filter tasks by status  words
-press delete to delete a task
-you can strike off a task if it is complete
-you can search for tasks  using search bar
-Persistent data storage
+1. Create a new task.
+2. Mark a task as completed.
+3. Delete a task.
+4. Filter tasks by status  words.
+5. press delete to delete a task.
+6. you can strike off a task if it is complete.
+7. you can search for tasks  using search bar.
+8. Persistent data storage.
 
 ## Usage
 
